@@ -15,6 +15,7 @@ public class Epam {
 	@Before
 	public void setUp() {
 		System.out.println("***BEFORE HOOK***");
+		//this is to check git push
 	}
 	
 	@After
