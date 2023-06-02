@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.218">
+    <testcase classname="This is the feature to test Data Table functionality" name="_2" time="0.037">
+        <system-out>
+            <![CDATA[Given I have user credentials...............................................passed
+Given I have admin user credentials.........................................passed
+When I open the login page..................................................passed
+And enter the "ABC" and "pass123"...........................................passed
+Then It should redirect me to Homepage......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="This is the feature to test Data Table functionality" name="_3" time="0.006">
+        <system-out>
+            <![CDATA[Given I have user credentials...............................................passed
+Given I have admin user credentials.........................................passed
+When I open the login page..................................................passed
+And enter the "EEE" and "pass234"...........................................passed
+Then It should redirect me to Homepage......................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="This is the feature to test Data Table functionality" name="_4" time="0.003">
+        <system-out>
+            <![CDATA[Given I have user credentials...............................................passed
+Given I have admin user credentials.........................................passed
+When I open the login page..................................................passed
+And enter the "YYY" and "pass345"...........................................passed
+Then It should redirect me to Homepage......................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
